@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    --font-cormorant: "Cormorant Garamond", serif;
+    --font-open-sans: "Open Sans", sans-serif;
+    --color-sage: oklch(68.065% 0.04037 151.174);
+    --color-sage-dark: oklch(59.485% 0.04718 150.121);
+    --color-sage-light: oklch(91.276% 0.01697 137.28);
+    --color-cream: oklch(97.08% 0.00847 84.494);
+    --color-charcoal: oklch(34.673% 0.00846 106.912);
+    --color-charcoal-muted: oklch(52.53% 0.0122 106.895);
+    --color-terracotta: oklch(66.131% 0.10595 42.498);
+    --color-terracotta-light: oklch(84.606% 0.04933 50.697);
+}
